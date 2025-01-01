@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
 
-  <h3 dir="auto">PLATFORMS & TOOLS & DevOps.</h3>  
+  <h3 dir="auto">DevOps & PLATFORMS & TOOLS.</h3>  
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/HTML5-777BB4?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-777BB4?style=flat&logo=css3&logoColor=white">
   
-  <h3 dir="auto">DEV PLANS</h3>
+  <h3 dir="auto">DEV PLANS.</h3>
   
   <br><br>
   <h1>ME ❗</h1>
