@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
 
-  <h3 dir="auto">FRAMEWORKS.</h3>  
+  <h3 dir="auto">FRAMEWORKS & LIB.</h3>  
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
