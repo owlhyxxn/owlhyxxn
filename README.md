@@ -4,8 +4,6 @@
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fowlhyxxn&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-  
   <h1>BIO 🦉</h1>
   <a href="https://github.com/owlhyxxn" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/></a>
   &nbsp;
@@ -32,7 +30,6 @@
   <h3 dir="auto">OS & ENV.</h3>  
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white">
 
