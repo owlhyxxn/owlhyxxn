@@ -93,21 +93,4 @@
     Software Engineer, AHHA LABS (March 2023 ~ing)
   </ul>
   
-  <h3 dir="auto">CERTIFICATES.</h3>
-  <ul>
-    TOEIC SPEAKING - IM<br>
-    Engineer Information Processing<br>
-  </ul>
-
-  <br><br>
-  <h1>ALGORITHM 🧬</h1>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksoul406)](https://solved.ac/ksoul406/)
-
-  <br><br>
-  <h1>STATISTICS 📋</h1>
-  
-  ![STATS](https://github-readme-stats.vercel.app/api?username=owlhyxxn&theme=dark&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlhyxxn&layout=compact&theme=dark)
-  
   </div>
