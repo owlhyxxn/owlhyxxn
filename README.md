@@ -84,7 +84,7 @@
   
   <h3 dir="auto">DEV PLANS.</h3>
   
-  <br>
+  <br><br>
   <h3 dir="auto">EXP.</h3>
   <ul>
     Bachelor, Department of Software Convergence, Hongik University (March 2017 - February 2023)<br>
