@@ -85,8 +85,8 @@
   <h3 dir="auto">DEV PLANS.</h3>
   
   <br><br>
-  <h1>ME ❗</h1>
-  <h3 dir="auto">BACKGROUND.</h3>
+  <h1>HYEON</h1>
+  <h3 dir="auto">EXP.</h3>
   <ul>
     Bachelor, Department of Software Convergence, Hongik University (March 2017 - February 2023)<br>
     Undergraduate Researcher, Ubiquitous Networks & Convergence Laboratory(UNC LAB), (March 2021 - February 2023)<br>
